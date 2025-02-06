@@ -73,9 +73,3 @@ Output: [0, 2, 4, 6, 7]  # Indices where the dominator (3) appears
 
 ## 🎯 Contributing  
 Feel free to fork this repository and submit pull requests. Any contributions are welcome!  
-
----
-
----
-
-هل تريد إضافة أي شيء آخر مثل صور أو توضيحات إضافية؟ 😊
