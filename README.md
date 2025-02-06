@@ -76,13 +76,6 @@ Feel free to fork this repository and submit pull requests. Any contributions ar
 
 ---
 
-## 📩 Contact  
-For any questions or discussions, feel free to connect on **[LinkedIn](https://www.linkedin.com/in/yourprofile)** or open an issue!  
-
-🔗 **GitHub Repository:** [your repo link]  
-
-#Algorithms #Python #ProblemSolving #GitHubProjects  
-
 ---
 
 هل تريد إضافة أي شيء آخر مثل صور أو توضيحات إضافية؟ 😊
