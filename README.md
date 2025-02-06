@@ -1,7 +1,6 @@
 # Algorithms-Project-2-
 
 
-إليك محتوى ملف **README.md** لمشروع GitHub الخاص بمهمتي **Birthday Cake Candles** و **Dominator**:  
 
 ---  
 
